@@ -1,6 +1,13 @@
 # Essa página foi criada com um Template Bootstrap para meu currículo virtual.
 
-Link do projeto: https://bruno-vitor.github.io/curriculovirtual.github.io/
+### Link do projeto:
+* [Curriculo Virtual](https://bruno-vitor.github.io/curriculovirtual.github.io/)
+
+### Mobile:
+![Mobile](https://github.com/Bruno-Vitor/curriculovirtual.github.io/blob/master/cmvirtualmbl.JPG)
+
+### Desktop:
+![Desktop](https://github.com/Bruno-Vitor/curriculovirtual.github.io/blob/master/cmvirtualdkt.JPG)
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
